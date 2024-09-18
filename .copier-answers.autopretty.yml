@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.4.3
+_src_path: git+https://github.com/copier-org/autopretty.git
+ansible: false
+biggest_kbs: 1000
+commitizen: false
+github: true
+js: false
+main_branches:
+- main
+- master
+nix: false
+poetry_local_hooks: false
+python: true
+terraform: false
+
